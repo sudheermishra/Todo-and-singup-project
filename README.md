@@ -142,16 +142,6 @@ Buy groceries  [Done] [Remove]
 
 ---
 
-# 🔧 Future Improvements
-
-* Store todos in **Local Storage**
-* Add **edit todo feature**
-* Replace alerts with **better UI validation messages**
-* Add **animations**
-* Add **dark mode**
-
----
-
 # 👨‍💻 Author
 
 **Sudheer Mishra**
